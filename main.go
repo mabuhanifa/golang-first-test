@@ -10,7 +10,5 @@ func main() {
 	name := "Alice"
 	age := 30
 	message := fmt.Sprintf("My name is %s and I am %d years old.", name, age)
-
 	print(message, people)
-
 }
